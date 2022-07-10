@@ -1,2 +1,2 @@
 # homework-chotivit
-this is homewaork of chtotivit busamognkol.
+this is the homework of chtotivit busamognkol.
